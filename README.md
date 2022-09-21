@@ -1,3 +1,7 @@
+<h1 align="center">Hello World!  I'm Manglam Paliwal 👩‍💻</h1>
+<br>
+
+### Github Stats
 <p align="center">
   <a href="https://manglam16.dev/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=manglam16&show_icons=true&theme=dark&hide_border=true&icon_color=f28a00" />
@@ -7,21 +11,14 @@
 
 <br/>
 
-<p>
-</div> 
-<div align="center">
-  <img src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Node.JS-000?style=for-the-badge&logo=node.js&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=typescript&color=151515&logoColor=000&labelColor=f28a00">
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&color=151515&logoColor=000&labelColor=f28a00">
-</p>
-
 <br/>
 
-[![Manglam Paliwal 16' Activity Graph](https://activity-graph.herokuapp.com/graph?username=manglam16&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)](https://manglam16.dev)
+[![Manglam Paliwal' Activity Graph](https://activity-graph.herokuapp.com/graph?username=manglam16&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)](https://manglam16.dev)
+
+
+### Connect with me through
+<a href="https://www.linkedin.com/in/manglam16/"><img src="https://img.icons8.com/color/48/000000/apple-mail.png"/></a>
+<a href="https://www.facebook.com/manglam.paliwal.1/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
+<a href="https://twitter.com/manglam_16"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+<a href="https://www.linkedin.com/in/manglam16/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+
