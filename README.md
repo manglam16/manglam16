@@ -24,4 +24,4 @@
 
 <br/>
 
-[![Manglam Paliwal' Activity Graph](https://activity-graph.herokuapp.com/graph?username=manglam16&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)](https://manglam16.dev)
+[![Manglam Paliwal 16' Activity Graph](https://activity-graph.herokuapp.com/graph?username=manglam16&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)](https://manglam16.dev)
