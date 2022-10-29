@@ -17,7 +17,6 @@
 
 
 ### Connect with me through
-<a href="https://www.linkedin.com/in/manglam16/"><img src="https://img.icons8.com/color/48/000000/apple-mail.png"/></a>
 <a href="https://www.facebook.com/manglam.paliwal.1/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
 <a href="https://twitter.com/manglam_16"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 <a href="https://www.linkedin.com/in/manglam16/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
