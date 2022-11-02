@@ -10,7 +10,9 @@
 </p>
 
 <br/>
-
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=manglam16&style=for-the-badge&color=brightgreen" alt="watching_count" />
+ </p>
 <br/>
 
 [![Manglam Paliwal' Activity Graph](https://activity-graph.herokuapp.com/graph?username=manglam16&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)](https://manglam16.dev)
