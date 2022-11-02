@@ -19,7 +19,16 @@
 
 
 ### Connect with me through
-<a href="https://www.facebook.com/manglam.paliwal.1/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
-<a href="https://twitter.com/manglam_16"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-<a href="https://www.linkedin.com/in/manglam16/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+
+<p>
+<br>	
+<a target="_blank" href="http://www.linkedin.com/in/manglam16"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="mailto:paliwalmanglam16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
+&emsp;
+<a href="https://www.quora.com/profile/Manglam-Paliwal"><img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora" alt="Quora" /></a>
+&emsp;
+<a href="https://twitter.com/manglam_16"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<br>
+</p>
 
